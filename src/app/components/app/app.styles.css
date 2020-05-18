@@ -1,0 +1,20 @@
+.logo {
+  margin: 40px;
+  float: left;
+}
+
+ul#menu li {
+  display:inline;
+  padding: 10px;
+}
+
+#menu {
+  margin: 55px 40px;
+  float: right;
+}
+
+.container {
+  width: 80%;
+  margin: 2% auto;
+}
+
